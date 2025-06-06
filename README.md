@@ -1,2 +1,2 @@
 # sql-project
-This is ola project on sql script using queries
+In this repository i'm only add sql project using sql queries
